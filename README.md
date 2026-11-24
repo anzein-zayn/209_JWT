@@ -3,6 +3,6 @@
 <img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/26c1067b-9065-478e-a74f-4dcb2eb604aa" />
 <img width="1919" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/f9a4b581-ecaf-49a8-9b4d-e7c05a5a3daa" />
 <img width="1917" height="1071" alt="gambar" src="https://github.com/user-attachments/assets/4c80ff68-ff7d-4458-a413-829992b01b02" />
-![Uploading gambar.png…]()
+<img width="1910" height="1073" alt="gambar" src="https://github.com/user-attachments/assets/dd09f5c9-7fd9-458a-beea-e13daeb544a7" />
 
 
